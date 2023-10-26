@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Tarea 6 Tecnologia Pag 151/1.0.0": {
+        "runtime": {
+          "Tarea 6 Tecnologia Pag 151.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tarea 6 Tecnologia Pag 151/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
